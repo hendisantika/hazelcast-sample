@@ -122,5 +122,13 @@ Members {size:2, ver:4} [
 
 ```
 
+Test Write Values :
+
+`http://localhost:8080/write?values=Hendi%20Santika`
+
+Test Read Values :
+
+`http://localhost:8080/read`
+
 
 
